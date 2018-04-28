@@ -46,6 +46,7 @@ int main(int argc, char* argv[])
     pthread_join(id_1,NULL);  
     pthread_join(id_2,NULL);  
     printf("Hello Git.\n");
+    printf("End.\n");
     return 0;  
 
 }
