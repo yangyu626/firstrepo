@@ -50,6 +50,7 @@ int main(int argc, char* argv[])
     printd("%d\n", 1024);
     printf("%d\n", 2048);
     printf("%d\n", 4096);
+    printf("0\n");
     return 0;  
 
 }
