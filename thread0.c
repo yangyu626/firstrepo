@@ -51,5 +51,6 @@ int main(int argc, char* argv[])
     printf("%d\n", 2048);
     printf("%d\n", 4096);
     printf("0\n");
+    printf("1\n");
     return 0;  
 }
