@@ -28,6 +28,7 @@ int main(int argc, char *argv[])
     {
         cout << it->first << " " << it->second << endl;
     }
+    cout << "end." << endl;
     
     return 0;
 }
