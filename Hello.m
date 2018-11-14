@@ -11,3 +11,4 @@ forgotten changes
 third of change
 first change by branch test
 second change by branch master
+second change by branch test
